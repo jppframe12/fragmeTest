@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">FragmeTest</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textviewID">firstTextview</string>
+    <string name="title_activity_fragme_test_main">FragmeTestMainActivity</string>
+	<string name="textview">New View</string>
+</resources>
